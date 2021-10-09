@@ -34,7 +34,8 @@ todolist.append('things')
 todolist[0] = 'fun'
 
 del todolist[0]
-
+print()
+print(todolist)
 
 print(len(todolist) - 1)
 
