@@ -1,6 +1,7 @@
 ## 2/15/19 ##
 
 # dictionaries
+print()
 shopList = {"bananas": 8, "things": 9, "apples": 10}
 
 print(shopList["bananas"])
